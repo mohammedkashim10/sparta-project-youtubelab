@@ -1,0 +1,18 @@
+.header img {
+  float:left;
+}
+.header h1 {
+  position: relative; top: 25px; font-style: italic; font-size: 3em;
+}
+.block {
+  float: left; width: 335px;
+}
+.block1 {
+  color: red;
+}
+.block2 {
+  color: black;
+}
+.block3 {
+  color: blue;
+}
